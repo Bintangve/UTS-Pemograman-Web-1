@@ -1,0 +1,10 @@
+:root{--nb:#e30613;--nb-dark:#b8050f}
+body{min-height:100vh;display:flex;flex-direction:column;background:#fafafa}
+main{flex:1}
+.navbar{background:var(--nb)}
+.btn-nb{background:var(--nb);color:#fff;border:0}.btn-nb:hover{background:var(--nb-dark);color:#fff}
+.hero{background:linear-gradient(135deg,var(--nb),#ff6b35);color:#fff;padding:80px 0}
+.card{border:0;box-shadow:0 2px 10px rgba(0,0,0,.08);transition:.2s}
+.card:hover{transform:translateY(-4px)}
+.auth-box{max-width:420px;margin:60px auto}
+footer{background:#222;color:#ddd;padding:16px 0;text-align:center;font-size:14px}
