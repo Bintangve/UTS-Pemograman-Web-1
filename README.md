@@ -1,6 +1,5 @@
 # Web Nabati Bintang Dwi R_24552011305 TIF RP 24B CID
 
-![alt text](?raw=true)
 
 Repository ini berisi **Project 1** (Website Nabati) dan **Project 2** (CRUD API) dalam satu repository.
 
@@ -13,7 +12,7 @@ Fitur: Bootstrap 5, validasi login memakai `if / else if / else` di `frontend/js
 ### Screenshot
 | Halaman | Screenshot |
 |---|---|
-| Beranda | ![Beranda](screenshots/beranda.png) |
+| Beranda | ![](https://github.com/Bintangve/UTS-Pemograman-Web-1/blob/main/screenshots/Beranda.png) |
 | Detail Informasi | ![Detail](screenshots/detail.png) |
 | Registrasi | ![Registrasi](screenshots/registrasi.png) |
 | Login | ![Login](screenshots/login.png) |
