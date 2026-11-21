@@ -1,5 +1,7 @@
 # Web Nabati Bintang Dwi R_24552011305 TIF RP 24B CID
 
+![alt text](?raw=true)
+
 Repository ini berisi **Project 1** (Website Nabati) dan **Project 2** (CRUD API) dalam satu repository.
 
 ## Project 1 - Website Nabati
