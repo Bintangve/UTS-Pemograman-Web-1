@@ -1,22 +1,12 @@
-# Nabati - Project Take Home (TIF RP 24 CID B)
+# Web Nabati Bintang Dwi R_24552011305 TIF RP 24B CID
 
 Repository ini berisi **Project 1** (Website Nabati) dan **Project 2** (CRUD API) dalam satu repository.
-
-```
-nabati/
-├── frontend/     # Project 1 - Website (Bootstrap 5, HTML, JS)
-├── backend/      # Project 2 - CRUD API (Node.js + Express)
-├── bruno/        # Collection Bruno (siap di-import)
-└── screenshots/  # Taruh screenshot di sini
-```
 
 ## Project 1 - Website Nabati
 
 Halaman: Beranda, Detail Informasi, Login, Registrasi, Menu Utama (setelah login).
 Fitur: Bootstrap 5, validasi login memakai `if / else if / else` di `frontend/js/app.js`, footer di semua halaman.
 
-**Cara menjalankan:** buka `frontend/index.html` di browser (atau pakai Live Server).
-Alur: Registrasi -> Login -> otomatis pindah ke Menu Utama.
 
 ### Screenshot
 | Halaman | Screenshot |
@@ -70,16 +60,6 @@ Contoh body POST/PUT (JSON):
 | PUT Update | ![](screenshots/bruno-update.png) |
 | DELETE | ![](screenshots/bruno-delete.png) |
 
-## Upload ke GitHub
-
-```bash
-git init
-git add .
-git commit -m "Project 1 dan Project 2 - Nabati"
-git branch -M main
-git remote add origin https://github.com/USERNAME/NAMA-REPO.git
-git push -u origin main
-```
 
 ---
 Dibuat oleh: 24552011305_Bintang Dwi Ramadhan_TIF RP 24B CID
